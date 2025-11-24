@@ -15,6 +15,8 @@ GO
 
 ALTER  PROCEDURE [dbo].[PROC04]
 AS
-SELECT 2+1 AS CONT
+SELECT 3+1 AS CONT
 
 GO
+
+-- Versão do Git: ${gitCommit}
