@@ -1,7 +1,7 @@
 USE [PROD]
 GO
 
-/******Versao do Arquivo: ($Id$)******/
+-- Hash do Arquivo: $Id$
 /****** Object:  StoredProcedure [dbo].[Usr_sp_integranotasfiscais]    Script Date: 29/10/2025 15:38:18 ******/
 SET ANSI_NULLS ON
 GO
@@ -16,6 +16,6 @@ GO
 
 ALTER  PROCEDURE [dbo].[PROC04]
 AS
-SELECT 9+6 AS CONT
+SELECT 5+5 AS CONT
 
 GO
